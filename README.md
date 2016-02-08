@@ -24,10 +24,12 @@ dismathportfolio-JaesiiM created by Classroom for GitHub
 - Indirectly Proven other stuffs (with contraposition)
 - Some problems cant be solved by both direct and indirect (So Choose Wisely)
 - Vacuous and Trivial Proofs make some things easier
-- Proved Summation Theorems
-- Introduced to Reclusive functions
+
+
 ##Week 4
 - Proofs by Equivalences are usually long
 - Learned mathematical induction
 - Remembered to pay attention to small details
 - People with Photographic memory are exempted from taking down notes
+- Introduced to Reclusive functions
+- Proved Summation Theorems
